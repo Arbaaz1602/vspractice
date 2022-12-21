@@ -1,0 +1,80 @@
+.headerclass{
+    text-align: center;
+    
+}
+.signupheader
+{
+    text-align: center;
+}
+
+.formfieldset
+{
+
+    width: 500px;
+    height: 450px;
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-color: cyan;
+    opacity: 1;
+   
+}
+
+.formdiv
+{
+    margin-left: 450px;
+    margin-right: 300px;
+    margin-top: 50px;
+    
+}
+
+.inputlabel, .forminput
+{
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+
+#lname
+{
+    margin-left: 50px;
+    width: 200px;
+}
+#fname
+{
+    margin-left: 47px;
+    width: 200px;
+}
+
+#email
+{
+    margin-left: 80px;
+    width: 200px;
+}
+#mnumber
+{
+    margin-left: 20px;
+    width: 200px;
+}
+
+#pwd
+{
+    margin-left: 60px;
+    width: 200px;
+}
+
+#cpwd
+{
+    margin-left: 35px;
+    width: 200px;
+}
+#dob
+{
+    margin-left: 80px;
+    width: 200px;
+}
+#submitform
+{
+    margin-left: 180px;
+    width: 80px;
+    height: 30px;
+}
